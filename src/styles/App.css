@@ -1,0 +1,17 @@
+h1, h2, h3, h4, p{
+    color: #3f4247;
+}
+header{
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    justify-content: space-between;
+}
+.App{
+    display: flex;
+    justify-content: center;
+}
+.generator{
+    width: 50%;
+    height: 80vh;
+}
